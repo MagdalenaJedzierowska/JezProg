@@ -9,7 +9,7 @@ void funk(double dd){
 	int i;
 	for(i=0;i<50;i++)
 		//printf("%i\n", s[i]);
-		if(s[i]==46)
+		if(s[i]=='.')
 			break;
 	//printf("%i\n",i);
 
